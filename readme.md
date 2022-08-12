@@ -1,7 +1,7 @@
 <h1 align="center">aspectxlol</h1>
 <p align="center">a proggrammer and student</p>
 
-![aspectxlol's GitHub stats](https://github-readme-stats.vercel.app/api?username=discordjs&count_private=true&count_private=true&show_icons=true&theme=radical)
+![aspectxlol's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectxlol&count_private=true&count_private=true&show_icons=true&theme=radical)
 
 # Skills
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 
