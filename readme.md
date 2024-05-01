@@ -13,16 +13,6 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 
 # tools i use
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> WSL for windows 10
-
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> Visual Studio Code
-
-# Social Media
-
-<img width="20" src="./assets/icon_clyde_blurple_RGB.svg">aspectxlol#3732
-
-<img width="20" src="./assets/Twitter social icons - circle - blue.svg">
-[aspectxlol](https://twitter.com/aspeclol)
 
 
